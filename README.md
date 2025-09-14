@@ -1,3 +1,3 @@
 Check out this GIF:
 
-(https://github.com/Kingsleyxelo/raw/main/Typing-mokey-gif.git)
+https://github.com/Kingsleyxelo/Typing-mokey-gif/blob/main/giphy.gif
